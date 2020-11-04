@@ -1,1 +1,1 @@
-# smartlamp
+# SmartLamp
